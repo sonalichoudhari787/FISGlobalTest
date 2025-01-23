@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BankersAppAutomaton", "BankersApp\BankersAppAutomaton.csproj", "{45E9AC0A-3441-45F4-A251-A1A3886E5ADA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45E9AC0A-3441-45F4-A251-A1A3886E5ADA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45E9AC0A-3441-45F4-A251-A1A3886E5ADA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45E9AC0A-3441-45F4-A251-A1A3886E5ADA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45E9AC0A-3441-45F4-A251-A1A3886E5ADA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D38D2722-D6C6-4011-B825-4C843C84E14F}
+	EndGlobalSection
+EndGlobal
